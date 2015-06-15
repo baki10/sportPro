@@ -24,7 +24,8 @@
                 <input id="password" type="password" size="15" name="j_password"></p>
             <p>
                 <input type="submit" value="Submit"/>
-                <input type="reset" value="Reset"/></p>
+                <input type="reset" value="Reset"/>
+				</p>
         </form>       
     
 </html>
